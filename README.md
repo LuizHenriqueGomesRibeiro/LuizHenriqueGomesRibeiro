@@ -16,10 +16,16 @@
 ) ![Blog](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 )
 
-##Last news:
+### Current works:
+  <ul>
+    <li>
+      <a style="text-decoration: none;" href="https://github.com/LuizHenriqueGomesRibeiro/Site">A java web application for a architecture portfolio</a>
+    </li>
+    <li>
+      <a style="text-decoration: none;" href="https://github.com/LuizHenriqueGomesRibeiro/gerenciador">A java web application for a industrial management system</a>
+    </li>
+  </ul>
 
-    - [My current work: a web application for a architecture portfolio](https://github.com/LuizHenriqueGomesRibeiro/Site)
-    
 <!--
 **LuizHenriqueGomesRibeiro/LuizHenriqueGomesRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
