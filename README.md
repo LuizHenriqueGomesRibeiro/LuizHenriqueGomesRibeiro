@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá rapaziada 👋
+<div>
+  <p>I'm Henrique. Here you will find Java applications using the most used technologies on the market. Feel free.</p>
+</div>
+
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-ribeiro-101210266/)
 
 ![LuizHenriqueGomesRibeiro's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuizHenriqueGomesRibeiro&show_icons=true&theme=radical)
@@ -11,6 +15,11 @@
 ) ![Blog](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white
 ) ![Blog](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white
 )
+
+##Last news:
+
+    - [My current work: a web application for a architecture portfolio](https://github.com/LuizHenriqueGomesRibeiro/Site)
+    
 <!--
 **LuizHenriqueGomesRibeiro/LuizHenriqueGomesRibeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
