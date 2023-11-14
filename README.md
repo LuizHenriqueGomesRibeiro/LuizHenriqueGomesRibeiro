@@ -4,7 +4,7 @@
 </div>
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-ribeiro-101210266/) 
-[![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]([https://www.linkedin.com/in/luiz-ribeiro-101210266/](https://www.youtube.com/@luizribeiro6921/videos)) 
+[![Blog](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@luizribeiro6921/videos) 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizHenriqueGomesRibeiro&show_icons=true&theme=radical" />
